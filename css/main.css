@@ -1,0 +1,30 @@
+#total {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+#buttons {
+    position: relative;
+    text-align: center;
+}
+#plus, #minus {
+    background-color: #aaa;
+    color:  white;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid #aaa;
+    padding: 10px 20px;
+    border-radius: 10%
+}
+#plus:hover, #minus:hover {
+    background-color: white;
+    color: #aaa;
+}
+#inputBx {
+    font-size: 30px;
+    border: 2px solid #aaa;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
